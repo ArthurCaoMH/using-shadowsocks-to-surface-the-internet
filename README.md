@@ -2,7 +2,7 @@
 用shadowsocks科学上网
 一、关于服务器的购买和配置请参考：
 
-自己搭建翻墙服务器 | jiyiren
+[自己搭建翻墙服务器 ](http://jiyiren.github.io/2016/10/06/fanqiang/)
 
 二、shadowsocks服务端的安装
 
@@ -40,17 +40,17 @@ sudo vi /etc/shadowsocks.json
 
 三、接下来就是客户端shadowsocks的安装了
 
-这篇文章写的很好，各个系统服务端shadowsocks的安装（mac/win/linux/android/ios）
+这篇文章写的很好，[各个系统服务端shadowsocks的安装（mac/win/linux/android/ios）](http://www.jeyzhang.com/how-to-install-and-setup-shadowsocks-client-in-different-os.html)
 
 目前iOS端没有客户端，而且暂时没有找到免费的替代品，有一个AppStore叫做wingy的软件需要收费8元，应该可以做替代，但是没有测试过，感兴趣的朋友们可以自己去尝试。
 
 但是其中的下载链接已经失效，可以直接点击下面的链接到shadowsocks的github上下载
 
-1.Windows
+[1.Windows](https://github.com/shadowsocks/shadowsocks-windows/releases)
 
-2.Android
+[2.Android](https://github.com/shadowsocks/shadowsocks-android/releases)
 
-3.mac
+[3.mac](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
 
 Ubuntu下直接采用安装命令：
 
